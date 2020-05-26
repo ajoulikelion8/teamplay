@@ -9,4 +9,5 @@ urlpatterns = [
     path('team2/', include('team2.urls')),
     path('team3/', include('team3.urls')),
     path('team4/', include('team4.urls')),
+    path('team5/',include('team5.urls')),
 ]
